@@ -6,7 +6,9 @@ Players take turns placing **X** and **O** on a 3×3 game board. The game automa
 
 ## 🚀 Live Demo
 
-**Coming soon — deployed with Vercel**
+🎮 **[Play Tic-Tac-Toe](https://tic-tac-toe-game-eight-black.vercel.app/)**
+
+The game is deployed and available to play online.
 
 ## ✨ Features
 
